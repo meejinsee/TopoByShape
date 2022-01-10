@@ -30,6 +30,7 @@ namespace TopoByShape
             Dictionary<string, object> returndix = new Dictionary<string, object>();
             List<string> filepaths = new List<string>();
             string filepath = Files;
+            //fe
             //if(Files == true)
             //{
             //    OpenFileDialog ofd = new OpenFileDialog();
